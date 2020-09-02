@@ -1,0 +1,14 @@
+.information {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+
+.information__inputTags {
+    display: flex;
+    justify-content: center;
+    justify-items: inherit;
+    padding: 20px 30px;
+    align-items: center;
+}
